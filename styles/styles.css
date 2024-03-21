@@ -55,12 +55,12 @@ body {
   color: var(--clr-text-primary);
   margin: 0 10px 17px 10px;
   font-size: 22px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .qr-info p {
   color: var(--clr-text-secondary);
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
   width: 256px;
   font-size: 15px;
