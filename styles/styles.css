@@ -51,7 +51,7 @@ body {
   align-items: center;
 }
 
-.qr-info h3 {
+.qr-info h1 {
   color: var(--clr-text-primary);
   margin: 0 10px 17px 10px;
   font-size: 22px;
